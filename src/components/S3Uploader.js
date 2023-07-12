@@ -33,7 +33,7 @@ export const S3Uploader = () => {
       }
       return (
         <div style={{ marginTop: '150px' }}>
-          <h1 style={{color: "#a90311"}}>Ultimo dia de clases oficiales :c</h1>
+          <h1 style={{color: "#a90311"}}>Práctica 10 Contenidos transversales</h1>
           <input type="file" onChange={handleFileSelect} />
           {file && (
             <div style={{ marginTop: '10px' }}>
