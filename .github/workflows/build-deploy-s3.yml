@@ -37,4 +37,4 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        run: aws s3 sync ./build s3://test-githubactions-bootcamp-xd
+        run: aws s3 sync ./build s3://react-githubactions-p10
